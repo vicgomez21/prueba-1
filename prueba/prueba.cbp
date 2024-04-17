@@ -36,9 +36,11 @@
 		</Compiler>
 		<Unit filename="include/rama1.h" />
 		<Unit filename="include/rama2.h" />
+		<Unit filename="include/rama3.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/rama1.cpp" />
 		<Unit filename="src/rama2.cpp" />
+		<Unit filename="src/rama3.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
